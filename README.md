@@ -4,6 +4,15 @@ Nama: Salman Fidinillah
 Kampus: Universitas Sahid Surakarta
 Jurusan: Informatika
 
+# GitHub Foundations Journey
+
+Halo, saya **Salman Fidinillah**.
+
+## Target
+- Lulus GH-900
+- Menguasai Git
+- Menjadi Software Developer
+
 ## Target
 Lulus sertifikasi GitHub Foundations GH-900.
 
