@@ -45,3 +45,17 @@ Hari ini saya mempelajari:
 - Memahami merge conflict
 
 Saya sedang belajar GitHub Foundations GH-900.
+
+## Day 5 - Documentation
+
+Hari ini saya mempelajari:
+- Fungsi README.md
+- Dasar penulisan Markdown
+- Fungsi .gitignore
+- Struktur repository GitHub
+- Keamanan file sensitif
+
+## My Learning Goals
+1. Menguasai Git dan GitHub
+2. Lulus sertifikasi GitHub Foundations GH-900
+3. Menjadi Software Developer
