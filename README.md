@@ -59,3 +59,12 @@ Hari ini saya mempelajari:
 1. Menguasai Git dan GitHub
 2. Lulus sertifikasi GitHub Foundations GH-900
 3. Menjadi Software Developer
+
+## Day 6 — Pull Request
+
+Hari ini saya mempraktikkan:
+- Membuat branch khusus untuk perubahan.
+- Mengubah README dan membuat commit.
+- Mengirim branch ke GitHub.
+- Membuat Pull Request menuju main.
+- Memeriksa perubahan sebelum merge.
