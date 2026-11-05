@@ -23,3 +23,6 @@ Hari ini saya mempelajari:
 - git add
 - git commit
 - git log
+
+## Day 3
+Belajar git push, pull, fetch, dan remote.
