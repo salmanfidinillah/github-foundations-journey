@@ -26,3 +26,13 @@ Hari ini saya mempelajari:
 
 ## Day 3
 Belajar git push, pull, fetch, dan remote.
+
+## Day 4 - Git Branching
+
+Hari ini saya mempelajari:
+- Membuat branch baru
+- Berpindah antarbranch
+- Menggabungkan branch menggunakan merge
+- Memahami merge conflict
+
+Saya sedang belajar GitHub Foundations GH-900.
