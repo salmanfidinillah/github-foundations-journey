@@ -16,3 +16,14 @@ proposed changes before merging.
 - Merge commit
 - Squash and merge
 - Rebase and merge
+
+## Branch Protection
+
+Branch protection helps teams secure important
+branches by enforcing rules.
+
+Examples:
+- Require pull request reviews
+- Require status checks
+- Require resolved conversations
+- Prevent unauthorized force pushes
