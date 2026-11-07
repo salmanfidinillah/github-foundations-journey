@@ -74,3 +74,13 @@ Hari ini saya belajar:
 ### Tujuan
 Mempelajari kolaborasi pengembangan software
 menggunakan GitHub Pull Request.
+
+## Day 7 - GitHub Project Management
+
+Today I learned about:
+- GitHub Issues
+- Labels
+- Assignees
+- Milestones
+- GitHub Projects
+- Linking Issues with Pull Requests
