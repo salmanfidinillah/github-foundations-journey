@@ -84,3 +84,19 @@ Today I learned about:
 - Milestones
 - GitHub Projects
 - Linking Issues with Pull Requests
+
+# Day 8 - GitHub Code Review
+
+## What I Learned
+- Understanding pull requests
+- Reviewing code changes
+- Adding review comments
+- Approving pull requests
+- Requesting changes
+
+## Practice
+I practiced the GitHub code review workflow.
+
+## Conclusion
+Code reviews help improve code quality
+and team collaboration.
