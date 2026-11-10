@@ -326,3 +326,5 @@ git push -u origin docs/day10-community
 **Day:** 10
 
 **Status:** Learning Notes
+ see you soon
+ 
